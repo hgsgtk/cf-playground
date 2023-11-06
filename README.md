@@ -1,4 +1,4 @@
-# cf-snippets
+# Cloudflare Playground
 Play with Cloudflare
 
 ## Install tools
